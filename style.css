@@ -1,0 +1,14 @@
+p {
+    height: 100px;
+    width: 100px;
+    background: lightskyblue;
+
+}
+
+.p-fiolet {
+   background: blueviolet;
+ 
+}
+.p-opa {
+    opacity: 0.5;
+}
